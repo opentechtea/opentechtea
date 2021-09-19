@@ -4,3 +4,7 @@ body {
    font-family: 'Oswald', sans-serif;
    text-align: center;
 }
+table {
+  text-align: center;
+  margin: 20px auto;
+}
